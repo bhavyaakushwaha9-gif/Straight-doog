@@ -222,7 +222,7 @@ This is a research project combining neuroscience and AI. Contributions welcome 
 ## Contact
 
 **Researcher**: Bhavya Akushwaha  
-**Email**: [your-email]  
+**Email**: bhavyaakushwaha9@gmail.com  
 **GitHub**: [@bhavyaakushwaha9-gif](https://github.com/bhavyaakushwaha9-gif)  
 **Research Focus**: Neuroscience, Sleep, Memory, Continual Learning, AI
 
